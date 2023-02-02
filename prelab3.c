@@ -1,3 +1,6 @@
+/* prelab test code */
+/* dividing int values to get proper text output + formatting */
+
 #include<stdio.h> /* introduce header file */
 
 int main(void) /* initalize program, set main to void to begin */
