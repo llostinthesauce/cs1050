@@ -1,5 +1,5 @@
 # cs1050
-cs1050 code from year spring semester 2023
+cs1050 code - SS2023
 
 all work seen here is original, written during my time in cs1050 at UofM
 consists of: prelabs, labs, and projects
