@@ -1,6 +1,9 @@
 # cs1050
-cs1050 labs and code from year 2022-23
+cs1050 code from year spring semester 2023
 
-my own code from cs1050 at UofM. will consist of any/all prelabs and labs, as well as projects
+all work seen here is original, written during my time in cs1050 at UofM
+consists of: prelabs, labs, and projects
 
-please only use as referance material, and do your own work!
+if you have found this, please only use my work as referance material, and i wish you the best of luck :D
+
+  (these commmits are more of a personal log so that i can look back years from now)
