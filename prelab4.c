@@ -1,4 +1,4 @@
-  1 /* prelab 4, corbin shanks, cs1050, 5 feb 2023, printing 1-10 with a switch or ternary operator */
+  1 /* prelab 4, corbin shanks, cs1050, 9 feb 2023, printing 1-10 with a switch or ternary operator */
   2 
   3 #include<stdio.h>
   4 
@@ -7,7 +7,7 @@
   7 {
   8     int base = 11;
   9 
- 10     while (base >= 0)
+ 10     do
  11     {
  12        --base;
  13         switch (base)
@@ -44,7 +44,8 @@
  44                     break;
  45             }
  46     }
- 47 
- 48 return(0);
- 49 
- 50 }
+ 47             while (base >= 0);
+ 48 
+ 49 return(0);
+ 50 
+ 51 }                                                                                                                                                                                                                              
