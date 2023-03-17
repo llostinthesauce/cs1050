@@ -1,14 +1,14 @@
   1 #include<stdio.h>
   2 #include<math.h>
   3 
-  4 void getCount(int * outputInt)
+  4 void getCount(int *outputInt)
   5 {
   6     printf("How many integers would you like to enter? ");
   7     scanf("%d", outputInt);
   8     printf("\n");
   9 }
  10 
- 11 void getIntArray(int * outputIntArray, int count)
+ 11 void getIntArray(int *outputIntArray, int count)
  12 {
  13     for (int i = 0; i < count; i++)
  14     {
