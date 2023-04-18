@@ -1,8 +1,8 @@
 # cs1050
-cs1050 code - SS2023
+CS1050 - Spring 2023 - University of Missouri
 
-all work seen here is original, written during my time in cs1050 at UofM
-consists of: prelabs, labs, and projects
+all work seen here is original, written during my time in cs1050
+consists of: prelabs, labs, and other files ending in .c
 
 if you have found this, please only use my work as referance material, and i wish you the best of luck :D
 
