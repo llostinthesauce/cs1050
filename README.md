@@ -7,4 +7,5 @@ consists of: prelabs, labs, and other!
 if you have found this, please only use my work as referance material, and i wish you the best of luck :D
 
 (these commmits are more of a personal log so that i can look back years from now)
-(some code towards the end is not updated or incomplete so beware!)
+
+(some code towards the end is not updated or is incomplete so beware!)
