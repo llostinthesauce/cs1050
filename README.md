@@ -1,5 +1,5 @@
 # cs1050
-CS1050 - Spring 2023 - University of Missouri
+CS1050 - Spring 2023 - University of Missouri w/ JimR
 
 all work seen here is original, written during my time in cs1050
 consists of: prelabs, labs, and other!
