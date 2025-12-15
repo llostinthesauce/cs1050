@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Xcode
+*.mode1v3
+*.mode2v3
+*.pbuser
+*.perspectivev3
+xcuserdata/
+
+# C / C++
+*.o
+*.out
+*.dSYM/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node
+node_modules/

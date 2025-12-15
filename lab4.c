@@ -1,0 +1,160 @@
+/* CS1050
+ * SP 2023
+ * LAB 4
+ * , 
+ * Feb 10, 2023
+ * 
+ * ***********************/
+
+#include<stdio.h>
+
+int main(void)
+{
+    int base = 11;
+
+    do
+    {
+        base++;
+        switch (base)
+        {
+            case 11:
+                printf("eleven, ");
+                break;
+            case 12:
+                printf("twelve, ");
+                break;
+            case 13:
+                printf("thirteen, ");
+                break;
+            case 14:
+                printf("fourteen, ");
+                break;
+            case 15:
+                printf("fifteen, ");
+                break;
+            case 16:
+                printf("sixteen, ");
+                break;
+            case 17:
+                printf("seventeen, ");
+                break;
+            case 18:
+                printf("eighteen, ");
+                break;
+            case 19:
+                printf("nineteen, ");
+                break;
+
+            case 20:
+            case 21:
+            case 22:
+            case 23:
+            case 24:
+            case 25:
+            case 26:
+            case 27:
+            case 28:
+            case 29:
+                printf("twenty ");
+                break;
+
+            case 30:
+            case 31:
+            case 32:
+            case 33:
+            case 34:
+            case 35:
+            case 36:
+            case 37:
+            case 38:
+            case 39:
+                printf("thirty ");
+                break;
+
+            case 40:
+            case 41:
+            case 42:
+            case 43:
+            case 44:
+            case 45:
+            case 46:
+            case 47:
+            case 48:
+            case 49:
+                printf("fourty ");
+                break;
+
+            case 50:
+            case 51:
+            case 52:
+            case 53:
+            case 54:
+            case 55:
+            case 56:
+            case 57:
+            case 58:
+            case 59:
+                printf("fifty ");
+                break;
+
+            case 60:
+            case 61:
+            case 62:
+            case 63:
+            case 64:
+            case 65:
+            case 66:
+            case 67:
+            case 68:
+            case 69:
+                printf("sixty ");
+                break;
+
+            case 70:
+            case 71:
+            case 72:
+            case 73:
+            case 74:
+            case 75:
+            case 76:
+            case 77:
+            case 78:
+            case 79:
+                printf("seventy ");
+                break;
+
+            case 80:
+            case 81:
+            case 82:
+            case 83:
+            case 84:
+            case 85:
+            case 86:
+            case 87:
+            case 88:
+            case 89:
+                printf("eighty ");
+                break;
+
+            case 90:
+            case 91:
+            case 92:
+            case 93:
+            case 94:
+            case 95:
+            case 96:
+            case 97:
+            case 98:
+            case 99:
+                printf("ninety ");
+                break;
+
+}
+
+    }
+
+while (base < 100);
+
+return(0);
+
+}
